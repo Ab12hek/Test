@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22130" started-at="2023-01-21T17:48:28Z" finished-at="2023-01-21T17:48:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22130" started-at="2023-01-21T17:48:28Z" finished-at="2023-01-21T17:48:50Z">
+      <class name="com.app.dataproviderexcel.ExcelReadDP">
+        <test-method status="PASS" signature="browserlaunch()[pri:0, instance:com.app.dataproviderexcel.ExcelReadDP@4bec1f0c]" name="browserlaunch" is-config="true" duration-ms="6870" started-at="2023-01-21T23:18:28Z" finished-at="2023-01-21T23:18:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method status="PASS" signature="excelread(java.lang.String, java.lang.String)[pri:0, instance:com.app.dataproviderexcel.ExcelReadDP@4bec1f0c]" name="excelread" duration-ms="2530" started-at="2023-01-21T23:18:35Z" data-provider="testdata" finished-at="2023-01-21T23:18:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[daisyrubycatharin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[RP65I]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelread -->
+        <test-method status="PASS" signature="excelread(java.lang.String, java.lang.String)[pri:0, instance:com.app.dataproviderexcel.ExcelReadDP@4bec1f0c]" name="excelread" duration-ms="3048" started-at="2023-01-21T23:18:38Z" data-provider="testdata" finished-at="2023-01-21T23:18:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[daisyrubycatharine1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[RP65IQ1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelread -->
+        <test-method status="PASS" signature="excelread(java.lang.String, java.lang.String)[pri:0, instance:com.app.dataproviderexcel.ExcelReadDP@4bec1f0c]" name="excelread" duration-ms="3348" started-at="2023-01-21T23:18:41Z" data-provider="testdata" finished-at="2023-01-21T23:18:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[daisyrubycatharine2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[RP65IQ2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelread -->
+        <test-method status="PASS" signature="excelread(java.lang.String, java.lang.String)[pri:0, instance:com.app.dataproviderexcel.ExcelReadDP@4bec1f0c]" name="excelread" duration-ms="2608" started-at="2023-01-21T23:18:44Z" data-provider="testdata" finished-at="2023-01-21T23:18:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[daisyrubycatharine3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[RP65IQ3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelread -->
+        <test-method status="PASS" signature="excelread(java.lang.String, java.lang.String)[pri:0, instance:com.app.dataproviderexcel.ExcelReadDP@4bec1f0c]" name="excelread" duration-ms="3140" started-at="2023-01-21T23:18:47Z" data-provider="testdata" finished-at="2023-01-21T23:18:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[daisyrubycatharine]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[RP65IQ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelread -->
+      </class> <!-- com.app.dataproviderexcel.ExcelReadDP -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
